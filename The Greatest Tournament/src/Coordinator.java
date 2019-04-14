@@ -7,7 +7,7 @@ public class Coordinator extends Thread {
     //This is an implementation of the P2P connection that allows to
     //keep multiple connections. Due to the fact that it has one player
     //who is the coordinator and he sends the updated data about all of the connected players
-    //to everyone on the "server"
+    //to everyone is connected
     //Here is the implementation of this so called "Coordinator"
     Coordinator() {
         start();
