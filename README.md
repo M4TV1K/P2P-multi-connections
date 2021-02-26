@@ -1,6 +1,6 @@
 # Tournament game based on P2P-multi-connections
 
-This is incredibly good project for developing understanding of Multi-Threading
+This is incredibly good project for developing understanding of Multi-Threading and TCP communication
 
 ## Description
 
